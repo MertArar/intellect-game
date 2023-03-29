@@ -72,6 +72,7 @@ function App() {
         Tıklama Sayısı: {clicks} &nbsp;&nbsp;&nbsp; Eşleşme:{" "}
         {foundPairs.length / 2}
       </div>
+      <div className="sign">Powered by Mert ARAR</div>
     </div>
   );
 }
